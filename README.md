@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexialewis63 
-- 👀 I’m a Collage student from Hong Kong
-- 🌱 I’m currently learning Front End and Selenium 
+- 👀 I’m a Collage student from UOM Australia.
+- 🌱 I’m currently learning Front End and Selenium.
 - 💞️ I’m looking to collaborate with Big Project someday. 
 
 <!---
